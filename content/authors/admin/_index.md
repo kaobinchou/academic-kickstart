@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Bin-Chou Kao (Brian Kao) is a PhD student – since August 2019 – in Computer Science (CS) at University of Illinois at Urbana–Champaign (UIUC, IL USA) where he works with Professor Sibin Mohan in the SyNeRCyS lab.
+Bin-Chou Kao (Brian Kao) is a PhD student – since August 2019 – in [Computer Science](https://cs.illinois.edu/) (CS) at [University of Illinois at Urbana–Champaign](https://illinois.edu/) (UIUC, IL USA) where he works with Professor [Sibin Mohan](https://synercys.github.io/sibin) in the [SyNeRCyS](https://synercys.github.io/projects/) lab.
