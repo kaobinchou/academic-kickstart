@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Bin-Chou Kao
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 2nd year Ph.D. student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Illinois at Urbana-Champaign
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
