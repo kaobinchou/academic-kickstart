@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2017-10-25"
   date_end = "2019-05-01"
   description = """
-  Highlight comtribution:
+  Highlighted contributions:
   * Build a system level digital twin for generating throughput, quality and cost from sensor data.
   * Use symbolic execution to analyze Programmable Logic Controller (PLC) code and find safety issues from interactive PLC codes.
   * Solve a routing problem with multiple digital twins and a decision maker in the central controller.
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   date_start = "2013-08-01"
   date_end = "2016-12-31"
   description = """
-  Highlight contribution:
+  Highlighted contributions:
   * Applied a new Microsoft client/server solution in the company, improving stability and efficiency.
   * Redesigned a new printing service, making it more secure and efficient.
   * Designed simple tools to make daily operations more efficient.
