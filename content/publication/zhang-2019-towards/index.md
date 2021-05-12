@@ -1,7 +1,7 @@
 ---
 title: Towards automated safety vetting of PLC code in real-world plants
 date: '2019-01-01'
-draft: true
+#draft: true
 publishDate: '2021-05-12T04:18:51.721352Z'
 authors:
 - Mu Zhang

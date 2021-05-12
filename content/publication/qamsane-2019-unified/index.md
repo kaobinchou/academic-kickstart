@@ -2,7 +2,7 @@
 title: A unified digital twin framework for real-time monitoring and evaluation of
   smart manufacturing systems
 date: '2019-01-01'
-draft: true
+#draft: true
 publishDate: '2021-05-12T04:18:51.963953Z'
 authors:
 - Yassine Qamsane
