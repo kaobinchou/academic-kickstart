@@ -15,7 +15,7 @@ role: 2nd year Ph.D. student
 # Organizations/Affiliations
 organizations:
 - name: University of Illinois at Urbana-Champaign
-  url: ""
+  url: "https://illinois.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -74,3 +74,4 @@ user_groups:
 
 Bin-Chou Kao (Brian Kao) is a PhD student – since August 2019 – in [Computer Science](https://cs.illinois.edu/) (CS) at [University of Illinois at Urbana–Champaign](https://illinois.edu/) (UIUC, IL USA) where he works with Professor [Sibin Mohan](https://cs.illinois.edu/about/people/faculty/sibin).
 His research focuses on Cyber-Physical System, particularly on Smart manufacturing system and distributed container related research.
+
