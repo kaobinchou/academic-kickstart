@@ -19,6 +19,7 @@ publication_types:
 - '1'
 abstract: ''
 featured: true
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/8835244?casa_token=WyHBeVLhRBQAAAAA:bStJ9KyB79KZPZHMMQeGf1fjIs-3vtYTC3SGKqYEvEwSmCgrXm9uhSJtLnWfAEuCoYoYhMvAWw"
 publication: '*2019 IEEE Symposium on Security and Privacy (SP)*'
 ---
 
