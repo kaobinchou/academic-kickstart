@@ -17,6 +17,7 @@ publication_types:
 - '1'
 abstract: ''
 featured: true
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/8843269?casa_token=HN_wWBx-SR4AAAAA:7Cf0V-GOy4Dk6F-0meQXo1vwONI5Vsfasx0UHMMcGjmH9MeFzlTejLxMSoRMLCiejOOXEi7N8w"
 publication: '*2019 IEEE 15th International Conference on Automation Science and Engineering
   (CASE)*'
 ---
