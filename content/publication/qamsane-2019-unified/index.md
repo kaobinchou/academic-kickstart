@@ -16,7 +16,7 @@ authors:
 publication_types:
 - '1'
 abstract: ''
-featured: false
+featured: true
 publication: '*2019 IEEE 15th International Conference on Automation Science and Engineering
   (CASE)*'
 ---

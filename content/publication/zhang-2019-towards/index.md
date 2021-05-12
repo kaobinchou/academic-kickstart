@@ -18,7 +18,7 @@ authors:
 publication_types:
 - '1'
 abstract: ''
-featured: false
+featured: true
 publication: '*2019 IEEE Symposium on Security and Privacy (SP)*'
 ---
 
