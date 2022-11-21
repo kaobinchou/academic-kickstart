@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 2nd year Ph.D. student
+role: 4th year Ph.D. student
 
 # Organizations/Affiliations
 organizations:
@@ -23,11 +23,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Internet of Things
 - Distributed System
+- Real-Time System
 
 education:
   courses:
   - course: PhD in Computer Science
-    institution: Stanford University
+    institution: University of Illinois at Urbana-Champaign
     year: present
   - course: MEng in Computer Science
     institution: National Chiao Tung University
